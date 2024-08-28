@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NurbekMakhmudov&label=Profile%20views&color=0e75b6&style=flat" alt="Nurbek Makhmudov" /> </p>
 
-- 🔭 I’m currently working on **Laravel & Angular**
+- 🔭 I’m currently working on **PHP, Laravel, Yii2**
 - 📫 How to reach me **nurbem.makhmudov.93@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
